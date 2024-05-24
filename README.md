@@ -2,8 +2,8 @@
 <h3 align="center">A computer science student from Olomouc</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ2ZXJvMXhlMWthcDRhYzV5cTh3bm14NTczMWJqcnY1Zm0yMTA3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
 
-- 🔭 I’m currently working on a packet sniffer in C#, a VHDL project and some testing projects using Gherkin and automated GUI testing.
-- 📖 I’m currently learning **Networking, databases, cybersecurity, OOP**
+- 🔭 I’m currently working on several C# projects to improve in C#.
+- 📖 I’m currently learning **MVC, backend development with C#**
 
 - 📫 How to reach me: **jakubeclp@gmail.com**
 
