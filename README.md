@@ -2,7 +2,7 @@
 <h3 align="center">A computer science graduate and masters cybersecurity student from Olomouc</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ2ZXJvMXhlMWthcDRhYzV5cTh3bm14NTczMWJqcnY1Zm0yMTA3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif">
 
-- 🔭 I’m currently working as a backend developer with ASP.NET Core for Metio Software s.r.o.
+- 🔭 I’m currently working as a Software Security Engineer for Edhouse s.r.o.
 - 📖 I’m currently learning and playing around with cybersecurity CTFs etc
 
 - 📫 How to reach me: **jakubeclp@gmail.com**
